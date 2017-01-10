@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "curl https://api.csswg.org/bikeshed/ -F file=@index.bs > index.html",
+    "test": "echint"
+  },
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "devDependencies": {
+    "echint": "^2.1.1"
+  }
+}

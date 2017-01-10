@@ -1,0 +1,36 @@
+<h1>FEATURE NAME</h1>
+<pre class=metadata>
+Status: DREAM
+Shortname: FEATURE-REPO
+Level: 1
+URL: https://github.com/YOUR-GITHUB/FEATURE-REPO
+Editor: YOUR NAME, YOUR@EMAIL.com
+Abstract: This module introduces the ability to DO A BETTER THING.
+</pre>
+
+<h2 id=introduction>Introduction</h2>
+
+	In CSS, THIS IS HOW THINGS CURRENTLY WORK IN A LESS GOOD WAY.
+	This module introduces the ability to DO A BETTER THING.
+
+<h2 id=syntax>FEATURE NAME Syntax</h2>
+
+	The syntax of a SPECIFIC FEATURE is:
+
+	<pre>
+		SPECIFIC FEATURE SPECS, LIKE
+
+		<dfn dfn-type=function>SOME_FUNCTION()</dfn> = SOME_FUNCTION( <a>&lt;SOME-VALUE&gt;</a> [, <a>&lt;SOME-VALUE&gt;</a>]? )
+
+		<dfn dfn-type=type>&lt;SOME-VALUE&gt;</dfn> = [ <dfn dfn-type=type>&lt;SOME-OTHER-VALUE&gt;</dfn> ]?, <dfn dfn-type=type>&lt;SOME-OTHER-OTHER-VALUE&gt;</dfn>
+	</pre>
+
+	SUPPLEMENTARY INFORMATION ABOUT THE SPECIFIC FEATURE SPECS (LIKE REFERENCES TO FEATURES OUTSIDE THIS SPECIFIC FEATURE SPEC)
+
+	<div class=example>
+		For example, A VALID USAGE:
+
+			<pre class=language-css>
+			CSS EXAMPLE OF THE FEATURE {}
+			</pre>
+	</div>

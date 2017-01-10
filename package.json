@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "echint"
+  },
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "devDependencies": {
+    "echint": "^2.1.1"
+  }
+}
